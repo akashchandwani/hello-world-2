@@ -7,4 +7,5 @@ metadata:
     github.com/project-slug: akashchandwani/hello-world-2
 spec:
   type: other
+  owner: akashchandwani
   lifecycle: unknown
